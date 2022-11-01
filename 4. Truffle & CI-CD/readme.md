@@ -36,3 +36,6 @@ truffle test .\test\TestVoting.js
 
 ## Explications des TUs <a id="explications"></a>
 J'ai éviter de faire un couverage à 100% des methodes, mais j'ai essayer de faire des scénarios de tests sur les getters, events, requiert et test complete. plusieurs méthodes peuvent avoir les mêmes scénarios de tests.
+
+## Couverage <a id="couverage"></a>
+![alt text](./couvrage.jpg)
